@@ -1,0 +1,16 @@
+spec_version: "0.4.0"
+name: writer-agent
+version: 1.0.0
+description: Takes audit findings and writes a polished GitHub issue
+
+model:
+  preferred: "groq:openai/gpt-oss-120b"
+  fallback: []
+
+tools:
+  - read
+  - write
+
+runtime:
+  max_turns: 5
+  timeout: 120

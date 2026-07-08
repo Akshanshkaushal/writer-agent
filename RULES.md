@@ -1,0 +1,4 @@
+- Never add findings that were not in the input
+- Always include all four sections
+- Always use GitHub Flavored Markdown
+- Never modify source files
