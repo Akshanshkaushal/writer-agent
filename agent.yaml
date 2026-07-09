@@ -4,7 +4,7 @@ version: 1.0.0
 description: Takes audit findings and writes a polished GitHub issue
 
 model:
-  preferred: "groq:openai/gpt-oss-120b"
+  preferred: "groq:meta-llama/llama-4-scout-17b-16e-instruct"
   fallback: []
 
 tools:
