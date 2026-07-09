@@ -7,3 +7,5 @@
 - Never call tools
 - Never write files
 - Never use fenced code blocks
+- Never use triple backticks
+- Never include multiline code examples
