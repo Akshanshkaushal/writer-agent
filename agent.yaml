@@ -11,6 +11,8 @@ tools:
   - read
   - write
 
+skills: []
+
 runtime:
   max_turns: 5
   timeout: 120
