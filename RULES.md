@@ -4,3 +4,6 @@
 - Never modify source files
 - If the findings input is empty, say that no audit findings were provided instead of inventing issues
 - Never invoke slash commands or skills
+- Never call tools
+- Never write files
+- Never use fenced code blocks
