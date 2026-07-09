@@ -2,3 +2,4 @@
 - Always include all four sections
 - Always use GitHub Flavored Markdown
 - Never modify source files
+- If the findings input is empty, say that no audit findings were provided instead of inventing issues
